@@ -1,7 +1,7 @@
 <h1 align=center>Dockette / DBDUMP</h1>
 
 <p align=center>
-   Ready-to-use MariaDB / MySQL / PostgreSQL dumpers.
+   Ready-to-use MariaDB / MySQL / PostgreSQL dumper.
 </p>
 
 <p align=center>
@@ -9,8 +9,8 @@
 </p>
 
 <p align=center>
-    <a href="https://hub.docker.com/r/dockette/php/"><img src="https://img.shields.io/docker/stars/dockette/php.svg?style=flat-square"></a>
-    <a href="https://hub.docker.com/r/dockette/php/"><img src="https://img.shields.io/docker/pulls/dockette/php.svg?style=flat-square"></a>
+    <a href="https://hub.docker.com/r/dockette/dbdump/"><img src="https://img.shields.io/docker/stars/dockette/dbdump.svg?style=flat-square"></a>
+    <a href="https://hub.docker.com/r/dockette/dbdump/"><img src="https://img.shields.io/docker/pulls/dockette/dbdump.svg?style=flat-square"></a>
     <a href="https://bit.ly/ctteg"><img src="https://img.shields.io/gitter/room/contributte/contributte.svg?style=flat-square"></a>
     <a href="https://github.com/sponsors/f3l1x"><img src="https://img.shields.io/badge/sponsor-me-brightgreen?style=flat-square"></a>
 </p>
