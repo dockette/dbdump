@@ -12,6 +12,7 @@ jobs:
         include:
           - version: "mariadb-10-2"
           - version: "mariadb-10-4"
+          - version: "mariadb-10-5"
 
       fail-fast: false
 
