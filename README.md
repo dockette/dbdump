@@ -24,9 +24,20 @@ docker run \
     -it \
     --rm \
     -v /data/yourdb:/var/lib/mysql \
-    dockette/dbdump:mariadb-10-4 \
+    dockette/dbdump:mariadb-10-11 \
     mysqldump -u root --password=root yourdb > dump.sql
 ```
+
+**Images**
+
+- dockette/dbdump:mariadb-10-2
+- dockette/dbdump:mariadb-10-4
+- dockette/dbdump:mariadb-10-6
+- dockette/dbdump:mariadb-10-11
+- dockette/dbdump:mariadb-11-1
+- dockette/dbdump:mariadb-11-2
+- dockette/dbdump:mariadb-11-4
+- dockette/dbdump:mariadb-11-5
 
 ## Development
 
