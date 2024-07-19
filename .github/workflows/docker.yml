@@ -21,9 +21,9 @@ jobs:
     strategy:
       matrix:
         include:
-          - item: mariadb-10-02
-          - item: mariadb-10-04
-          - item: mariadb-10-06
+          - item: mariadb-10-2
+          - item: mariadb-10-4
+          - item: mariadb-10-6
           - item: mariadb-10-11
           - item: mariadb-11-1
           - item: mariadb-11-2
