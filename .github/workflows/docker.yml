@@ -28,6 +28,5 @@ jobs:
           - item: mariadb-11-1
           - item: mariadb-11-2
           - item: mariadb-11-4
-          - item: mariadb-11-5
 
       fail-fast: false
