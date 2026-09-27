@@ -40,6 +40,8 @@ docker run \
 - dockette/dbdump:mariadb-11-5
 - dockette/dbdump:mariadb-11-7
 - dockette/dbdump:mariadb-11-8
+- dockette/dbdump:mariadb-12-3
+- dockette/dbdump:mariadb-13-0
 
 ## Development
 
