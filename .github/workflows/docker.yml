@@ -38,3 +38,12 @@ jobs:
           - item: mariadb-13-0
 
       fail-fast: false
+
+  docs:
+    name: "Docs"
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    uses: dockette/.github/.github/workflows/dockerhub-description.yml@master
+    secrets: inherit
+    with:
+      image: "dockette/dbdump"
